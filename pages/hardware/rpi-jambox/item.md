@@ -1,3 +1,9 @@
+---
+taxonomy:
+  category: project
+  tag: [project, hardware, raspberrypi, audio]
+---
+
 = Raspberry Pi Jambox =
 
 == Distros ==
