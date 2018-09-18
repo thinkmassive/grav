@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Inventory
 body_classes: title-h1h2
 ---
 
