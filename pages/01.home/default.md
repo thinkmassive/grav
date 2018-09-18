@@ -8,6 +8,6 @@ body_classes: title-center title-h1h2
 Please use the menu at the top to navigate this site.
 
 ## Contact
-- <a href="http://github.com/thinkmassive" rel="me">github.com/{{ site.author.github }}</a>
-- <a href="http://twitter.com/thinkmassive" rel="me">twitter.com/{{ site.author.twitter }}</a>
+- <a href="http://github.com/thinkmassive" rel="me">github.com/thinkmassive<a>
+- <a href="http://twitter.com/thinkmassive" rel="me">twitter.com/thinkmassive</a>
 - alex at thinkmassive dot org
