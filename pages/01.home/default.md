@@ -1,47 +1,29 @@
 ---
 title: Home
-body_classes: title-center title-h1h2
+body_classes: title-h1h2
 ---
 
-# Welcome to Grav @ ThinkMassive.org
+# Welcome to ThinkMassive.org
 
-## Software
+My name is Alexander Miller, and this website is where I keep notes about my projects and research. 
 
-### Software Projects
-  - Ethereum Infrastructure Automation
+### My Background
 
-### Software Research
-  - Ethereum Client Metrics
-  - CryptoKube - Kubernetes blockchain platform
+#### Early Days
+As a kid I always enjoyed working with tools, electronics, and computers. During high school I read a couple textbooks about microprocessor system architecture([1](https://www.goodreads.com/book/show/3867975-the-essence-of-microprocessor-engineering), [2](https://www.goodreads.com/book/show/950048.Microprocessor_Systems_Design)), and eventually worked by way through the basic systems course of the [Elenco Micro-Master](https://www.elenco.com/product/micromaster-computer-training-kit) training kit ([book](https://www.elenco.com/wp-content/uploads/2017/10/MM8000K1-3.pdf)).
 
+#### College
+I attended Virginia Tech sporadically between 2002 and 2013 and eventually earned a Bachelor of Science in Computer Engineering.
 
-## Hardware
+#### Early Career: DevOps @ Modes
+During college I started working for a small agency called [Modea](https://www.modea.com), where I wore the hats of sysadmin, netops, devops, and backend engineer over the course of 7 years. We parted ways shortly after I relocated from Blacksburg to Durham. Eventually they spun out a division as [Ozmo](https://ozmoapp.com), and both companies are doing great to this day. I highly recommend checking them out if you're in their target market, or if you're looking for a tech job in Blacksburg, Virginia.
 
-### Hardware Projects
-  - DogStat
-  - Garden Watering
-  - Boomboxen
+#### Big Data: Platform Support @ Hortonworks
+While seeking experience in new fields I received an offer from Hortonworks, which is a primary developer of the Hadoop platform. The position was in support, but I saw it as an opportunity to get a crash course in real-world distributed systems, and I'm glad I took it. The environment was fast-paced and sometimes difficult, but I was able to exchange knowledge and techniques with talented colleagues.
 
-### Hardware Research
-  - Nand2Tetris
-  - Retrocomputing (68k, Z80, 80xx)
+#### Linux Distribution: Tooling Engineer @ Endless Computers
 
+#### Blockchain: DevOps @ Shapeshift
 
-## Vehicle
-
-### Vehicle Projects
-  - 2000 Jeep Wrangler TJ Sport
-  - Adventure Trailer
-  - 12V Power Module
-
-### Vehicle Research
-  - coming soon
-
-### Trip Reports
-  - coming soon
-
-
-## Contact
-  - <a href="http://github.com/thinkmassive" rel="me">github.com/thinkmassive<a>
-  - <a href="http://twitter.com/thinkmassive" rel="me">twitter.com/thinkmassive</a>
-  - alex at thinkmassive dot org
+#### Today
+Currently my time is split between consulting and hobbies-that-might-become-a-hustle. See the [contact page](/contact) for details.
