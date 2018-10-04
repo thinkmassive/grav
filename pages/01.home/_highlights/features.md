@@ -7,10 +7,7 @@ features:
     text: "Covering various areas including software, hardware, and vehicles"
   - header: Research
     text: "Covering various areas including software, hardware, and vehicles"
-  - header: About
-    text: "My experience and background"
-  - header: Contact
-    text: "Many ways to get in touch"
+  - header: Shop
+    text: "My online yardsale at OpenBazaar"
 ---
 
-This is the HIGHLIGHTS module
