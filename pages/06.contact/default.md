@@ -25,3 +25,5 @@ Feel free to contact me if you are a novice seeking mentorship in any of the fol
   - DevOps / Cloud
 
 Please include some background about yourself, relevant goals for the next 6 months, and how you have worked towards these goals during the past 30 days. More detail is appreciated. I will respond within one week.
+
+![](sleepy-pac.png)
