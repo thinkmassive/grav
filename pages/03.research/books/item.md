@@ -41,3 +41,4 @@ Into the Wild | Jon Krakauer
 The Illuminatus Trilogy | Robert Shea & Robert Anton Wilson
 Takedown | Tsutomu Shimomura
 
+[doc.lagout.org](https://doc.lagout.org/)
