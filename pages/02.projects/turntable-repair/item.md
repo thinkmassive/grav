@@ -11,7 +11,7 @@ Imported blog post from 2009 Jul 05
 
 A friend of mine has two Technics 1200 MK2 turntables, and the RCA plugs were damaged when someone removed them by the cables instead of the plugs. One of the ground cables was also cut short, and the other was in rough shape.
 
-Here are the steps I followed to replace the cables on both turntables. Click any of the images to view in full size.
+Here are the steps I followed to replace the cables on both turntables. Click any of the images to view in full size. [SIC: the links were dead when this was archived, so the thumbnails are all that remain]
 
 Remove the slipmat to expose the platter. Lift the platter directly up by the two holes to remove it from the spindle (one of the platters came out attached to the spindle... I'm not sure why but it still works fine so I didn't worry about it). Secure the tonearm and place a cover on top of the turntable.
 
