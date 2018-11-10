@@ -12,3 +12,5 @@ Research about FPGAs, ASICs, HDL, etc
 - [Libre Silicon Alliance](http://libresilicon.com)
 - [TPU/RPU Series Quick Links](http://labs.domipheus.com/blog/tpu-series-quick-links/) - Designing a RISC-V CPU in VHDL
 - [Milkymist One](http://m-labs.hk/m1.html) - experimental hardware appliance for live video effects
+- [ZipCPU](http://zipcpu.com/about/) - hobbiest FPGA CPU
+- [Modern Microprocessors: a 90-minute guide](http://www.lighterra.com/papers/modernmicroprocessors/)
