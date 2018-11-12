@@ -18,3 +18,4 @@ Self-hosted alternatives to common third-party services
 - [alternatives to Google Keep?](https://www.reddit.com/r/selfhosted/comments/9melt5/selfhosted_web_app_like_googe_keep/)
 - [Pikatrack](https://www.reddit.com/r/selfhosted/comments/9l022v/pikatrack_a_selfhosted_fitness_tracking_website/) - fitness tracking
 - [Minio](https://www.minio.io/) - high performance distributed object storage server
+- [Ory](https://www.ory.sh/) - open source OAuth 2.0 & OpenID Connect

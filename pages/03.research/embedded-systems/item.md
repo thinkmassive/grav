@@ -94,3 +94,4 @@ Research about embedded computing systems
 - [ESPP8266 Deep Sleep with Arduino IDE](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
 - [The Car Hacker's Handbook](http://opengarages.org/handbook/ebook/)
 - [How to Build a Low-tech Website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) - solar-powered Olimex A20 computer running Armbian Stretch
+- /r/arduino: [Paper light box that syncs with time of day and moon phase](https://www.reddit.com/r/arduino/comments/9ntrxt/i_used_an_arduino_nano_to_make_a_dynamic_paper/)
