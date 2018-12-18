@@ -9,4 +9,15 @@ CryptoKube is a reference implementation of a multi-blockchain application platf
 
 ===
 
-public repo coming soon
+# Product Requirements
+
+## Objective
+
+## Core Components
+
+## User Flow
+
+## Analytics
+
+## Future Features
+
