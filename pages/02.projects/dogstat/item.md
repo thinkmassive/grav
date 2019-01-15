@@ -49,3 +49,4 @@ A primary hardware interface should allow activity input and reporting. This can
 - [MicroPython Forum: multithreading](https://forum.micropython.org/viewtopic.php?t=1864)
 - [Python cheatsheet for couchdb module](https://gist.github.com/marians/8e41fc817f04de7c4a70)
 - [CouchDB Docs](http://docs.couchdb.org/en/stable/)
+- [Adafruit OLED Bonnet](https://www.adafruit.com/product/3531)
