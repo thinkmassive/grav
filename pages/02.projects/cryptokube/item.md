@@ -13,6 +13,9 @@ CryptoKube is a reference implementation of a multi-blockchain application platf
 
 Kubernetes implementation is under construction in the [kube-poc](https://github.com/CryptoKube-io/kube-poc) repo. For the Devcon4 workshop (Terraform, Ansible, slide deck), please visit [CryptoKube.io](https://www.cryptokube.io). Thanks!
 
+![](devcon4-workshop-audience-1.jpg)
+![](devcon4-workshop-audience-2.jpg)
+
 # Product Requirements
 
 ## Objective
