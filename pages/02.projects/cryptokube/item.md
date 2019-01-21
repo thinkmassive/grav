@@ -9,7 +9,7 @@ CryptoKube is a reference implementation of a multi-blockchain application platf
 
 ===
 
-![](devcon4-workshop-presenter.jpg)
+![](devcon4-workshop.jpg)
 
 # Product Requirements
 
