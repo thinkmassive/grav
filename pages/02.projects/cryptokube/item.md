@@ -9,7 +9,7 @@ CryptoKube is a reference implementation of a multi-blockchain application platf
 
 ===
 
-![](devcon4-workshop.jpg)
+![](devcon4-workshop-1.jpg)
 
 Kubernetes implementation is under construction in the [kube-poc](https://github.com/CryptoKube-io/kube-poc) repo. For the Devcon4 workshop (Terraform, Ansible, slide deck), please visit [CryptoKube.io](https://www.cryptokube.io). Thanks!
 
