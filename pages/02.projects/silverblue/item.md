@@ -9,7 +9,9 @@ Fedora Silverblue immutable workstation OS
 
 ===
 
-# Silverblue
+![](silverblue-logo.svg)
+
+# Fedora Silverblue
 
 Installing Fedora 29 Silverblue on NUC i3 32G 512G
 
