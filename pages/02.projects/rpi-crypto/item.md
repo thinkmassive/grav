@@ -5,6 +5,8 @@ taxonomy:
   tag: [ project, hardware, raspberrypi, crypto, bitcoin, ipfs ]
 ---
 
+![](01.jpg) ![](02.jpg)
+
 Raspberry Pi crypto node
 
 ===
