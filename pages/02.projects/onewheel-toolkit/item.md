@@ -9,6 +9,8 @@ A portable toolkit for the [Onewheel](https://onewheel.com) ([wiki](http://onewh
 
 ===
 
+![](toolkit.jpg)
+
 # Product Requirements
 
 ## Objective
